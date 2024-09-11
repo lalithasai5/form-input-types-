@@ -1,0 +1,17 @@
+form{
+    background-color: blue;
+    border: 2px solid deeppink;
+    display: inline-block;
+
+}
+label{
+    display: inline-block;
+    width: 200px;
+    font-size: 1.2rem;
+}
+form div{
+    margin: 5px;
+}
+.label{
+    width: auto;
+}
